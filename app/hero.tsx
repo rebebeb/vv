@@ -78,7 +78,7 @@ export default function Hero() {
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           {/* Display as text instead of link */}
           <span className="text-sm/6 font-semibold text-gray-900">
-            THE CA WHATEVER IT IS NIGGER
+            HZafQ2gkLhbAD6vH8zvvV8TW5R5EHBmCnQ9ruHa8pump
           </span>
         </div>
       </nav>
