@@ -43,7 +43,7 @@ export default function Hero() {
             <span className="sr-only">Your Company</span>
             <img
               alt=""
-              src="https://media.discordapp.net/attachments/1160456374208188477/1327871442108289054/A07DE722-60C3-4C67-B734-ABD2A51210E4.png?ex=6784a426&is=678352a6&hm=65dd98657a60757b757af8f78ee136d6de78156e2010353ce429a713710c1246&=&format=webp&quality=lossless&width=1266&height=1266"
+              src="https://cdn.discordapp.com/attachments/879113849297588235/1327873018893963274/4D40C320-5751-4434-939B-6AEC5EAEF7A4.png?ex=6784a59e&is=6783541e&hm=df76296de9065fbda47a35183694f1ebab461b27a8a7e953d964930a6c2be10d&"
               className="h-8 w-auto"
             />
           </a>
