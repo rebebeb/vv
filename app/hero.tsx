@@ -67,7 +67,7 @@ export default function Hero() {
         {/* Hide mobile menu and show desktop menu */}
         <div className="lg:flex lg:flex-1 lg:justify-end hidden">
           <span className="text-sm/6 font-semibold text-gray-900">
-            CA IS NOT READY YET
+            HxAtV1KcqWmPPLdhKhWMq4zas7SNaubmHmor1d5Gpump
           </span>
         </div>
         {/* Mobile menu (hidden on larger screens) */}
