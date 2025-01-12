@@ -57,7 +57,7 @@ export default function Hero() {
             </PopoverButton>
           </Popover>
 
-          <a href="https://t.me/AsthmaticAI" className="text-sm/6 font-semibold text-gray-900">
+          <a href="https://t.me/asthmaticxyz" className="text-sm/6 font-semibold text-gray-900">
             Telegram
           </a>
 
