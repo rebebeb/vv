@@ -31,8 +31,9 @@ export default function Header() {
                 $ASTHMATIC Agent Model 
               </p>
               <p className="mt-6 text-lg/8 text-gray-600">
-              The $ASTHMATIC Agent is a fictional life-saving assistant inspired by George Floyd’s legacy, designed to provide immediate support during physical distress. By offering real-time health monitoring and emergency assistance, the $ASTHMATIC Agent could have alleviated critical situations, ensuring timely care and raising awareness of health disparities, ultimately saving lives and promoting justice.
+At 50k Market Cap, the agent gains the ability to "breathe air," symbolizing a critical milestone, and the AI bot will be publicly released.
 
+The $ASTHMATIC Agent is a visionary, fictional life-saving assistant inspired by the legacy of George Floyd. Designed to provide immediate support during moments of physical distress, this innovative tool offers real-time health monitoring and emergency intervention. By addressing critical situations with precision and urgency, the $ASTHMATIC Agent seeks to raise awareness about health disparities, promote justice, and ultimately save lives—bringing hope and action to those in need
 
 
 
