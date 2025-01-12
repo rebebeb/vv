@@ -48,17 +48,8 @@ export default function Hero() {
             />
           </a>
         </div>
-        <div className="flex lg:flex-1 lg:hidden">
-          <button
-            type="button"
-            onClick={() => setMobileMenuOpen(true)}
-            className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700"
-          >
-            <span className="sr-only">Open main menu</span>
-            <Bars3Icon aria-hidden="true" className="size-6" />
-          </button>
-        </div>
-        <PopoverGroup className="flex lg:gap-x-12">
+        {/* Hide mobile menu and show desktop menu */}
+        <div className="lg:flex lg:gap-x-12 hidden">
           <Popover className="relative">
             <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900">
               Resources
@@ -72,13 +63,26 @@ export default function Hero() {
 
           <a href="#" className="text-sm/6 font-semibold text-gray-900"></a>
           <a href="#" className="text-sm/6 font-semibold text-gray-900"></a>
-        </PopoverGroup>
-        <div className="flex lg:flex-1 lg:justify-end">
+        </div>
+        {/* Hide mobile menu and show desktop menu */}
+        <div className="lg:flex lg:flex-1 lg:justify-end hidden">
           <span className="text-sm/6 font-semibold text-gray-900">
             CA IS NOT READY YET
           </span>
         </div>
+        {/* Mobile menu (hidden on larger screens) */}
+        <div className="lg:hidden">
+          <button
+            type="button"
+            onClick={() => setMobileMenuOpen(true)}
+            className="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700"
+          >
+            <span className="sr-only">Open main menu</span>
+            <Bars3Icon aria-hidden="true" className="size-6" />
+          </button>
+        </div>
       </nav>
+      {/* Mobile Dialog for Menu */}
       <Dialog open={mobileMenuOpen} onClose={setMobileMenuOpen} className="lg:hidden">
         <div className="fixed inset-0 z-10" />
         <DialogPanel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
