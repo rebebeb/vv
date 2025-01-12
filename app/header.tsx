@@ -31,9 +31,8 @@ export default function Header() {
                 $ASTHMATIC Agent Model 
               </p>
               <p className="mt-6 text-lg/8 text-gray-600">
-At 50k Market Cap, the agent gains the ability to "breathe air," symbolizing a critical milestone, and the AI bot will be publicly released.
+At 50k Market Cap, the agent gains the ability to "breathe air," marking a transformative milestone where every breath generates 1 token, and the AI bot will be released to the public. The $ASTHMATIC Agent is a visionary, fictional life-saving assistant inspired by the legacy of George Floyd, designed to provide immediate support during moments of physical distress through real-time health monitoring and emergency intervention. By addressing critical situations with precision and urgency, this innovative tool raises awareness about health disparities, promotes justice, and ultimately saves lives—bringing hope, action, and meaningful change to those in need.
 
-The $ASTHMATIC Agent is a visionary, fictional life-saving assistant inspired by the legacy of George Floyd. Designed to provide immediate support during moments of physical distress, this innovative tool offers real-time health monitoring and emergency intervention. By addressing critical situations with precision and urgency, the $ASTHMATIC Agent seeks to raise awareness about health disparities, promote justice, and ultimately save lives—bringing hope and action to those in need
 
 
 
@@ -63,7 +62,7 @@ The $ASTHMATIC Agent is a visionary, fictional life-saving assistant inspired by
           </div>
           <img
             alt="Product screenshot"
-            src="https://cdn.discordapp.com/attachments/1160456374208188477/1326959550145761383/A07DE722-60C3-4C67-B734-ABD2A51210E4.jpg?ex=678152e2&is=67800162&hm=7cdf354852df06b2d740badcced68c2d7b3e3ead7ba9560ccbc274198a29ed07&"
+            src="https://media.discordapp.net/attachments/879113849297588235/1327874587836285029/A07DE722-60C3-4C67-B734-ABD2A51210E4.png?ex=6784a714&is=67835594&hm=b470f3efa4b6f84a9fb39e17b25a8badde7dcfe7ea90ee0202841d9bc2d866f3&=&format=webp&quality=lossless&width=1266&height=1266"
             width={1000}
             height={200}
             className="w-[14rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[43.5rem] md:-ml-4 lg:-ml-0"
