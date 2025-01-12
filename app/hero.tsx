@@ -48,7 +48,7 @@ export default function Hero() {
             />
           </a>
         </div>
-        <div className="flex lg:hidden">
+        <div className="flex lg:flex-1 lg:hidden">
           <button
             type="button"
             onClick={() => setMobileMenuOpen(true)}
@@ -58,25 +58,22 @@ export default function Hero() {
             <Bars3Icon aria-hidden="true" className="size-6" />
           </button>
         </div>
-        <PopoverGroup className="hidden lg:flex lg:gap-x-12">
+        <PopoverGroup className="flex lg:gap-x-12">
           <Popover className="relative">
             <PopoverButton className="flex items-center gap-x-1 text-sm/6 font-semibold text-gray-900">
               Resources
               <ChevronDownIcon aria-hidden="true" className="size-5 flex-none text-gray-400" />
             </PopoverButton>
-            {/* Removed PopoverPanel */}
           </Popover>
 
-          {/* Update Telegram link */}
-          <a href="https://t.me/AsthmaticAgent" className="text-sm/6 font-semibold text-gray-900">
+          <a href="https://t.me/AsthmaticAI" className="text-sm/6 font-semibold text-gray-900">
             Telegram
           </a>
 
           <a href="#" className="text-sm/6 font-semibold text-gray-900"></a>
           <a href="#" className="text-sm/6 font-semibold text-gray-900"></a>
         </PopoverGroup>
-        <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-          {/* Display as text instead of link */}
+        <div className="flex lg:flex-1 lg:justify-end">
           <span className="text-sm/6 font-semibold text-gray-900">
             CA IS NOT READY YET
           </span>
