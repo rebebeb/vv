@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "$ASTHMATIC AI",
-  description: "ASTHMATIC Agent is a new force for health and justice.",
+  title: "adi cwepe",
+  description: "rugged by adi the samosa.",
 };
 
 export default function RootLayout({
