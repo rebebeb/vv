@@ -31,7 +31,8 @@ export default function Header() {
                 $ASTHMATIC Agent Model 
               </p>
               <p className="mt-6 text-lg/8 text-gray-600">
-At 50k Market Cap, the agent gains the ability to "breathe air," marking a transformative milestone where every breath generates 1 token, and the AI bot will be released to the public. The $ASTHMATIC Agent is a visionary, fictional life-saving assistant inspired by the legacy of George Floyd, designed to provide immediate support during moments of physical distress through real-time health monitoring and emergency intervention. By addressing critical situations with precision and urgency, this innovative tool raises awareness about health disparities, promotes justice, and ultimately saves lives—bringing hope, action, and meaningful change to those in need.
+At 50k Market Cap, the agent gains the ability to "breathe air," with each breath generating 1 token, and the AI bot will be released to the public. Inspired by George Floyd’s legacy, the $ASTHMATIC Agent is a fictional life-saving assistant designed to provide real-time health monitoring and emergency intervention, raising awareness about health disparities and promoting justice while aiming to save lives.
+
 
 
 
